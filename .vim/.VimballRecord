@@ -1,0 +1,3 @@
+screen.vba: call delete('/home/draizen/.vim/autoload/screen.vim	[[[1')|call delete('/home/draizen/.vim/doc/screen.txt	[[[1')|call delete('/home/draizen/.vim/plugin/screen.vim	[[[1')
+screen.vba: call delete('/home/draizen/.vim/autoload/screen.vim	[[[1')|call delete('/home/draizen/.vim/doc/screen.txt	[[[1')|call delete('/home/draizen/.vim/plugin/screen.vim	[[[1')
+supertab.vba: call delete('/home/draizen/.vim/doc/supertab.txt	[[[1')|call delete('/home/draizen/.vim/plugin/supertab.vim	[[[1')
